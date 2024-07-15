@@ -1,0 +1,15 @@
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\bin\Debug\net6.0\Exercise9.exe
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\bin\Debug\net6.0\Exercise9.deps.json
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\bin\Debug\net6.0\Exercise9.runtimeconfig.json
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\bin\Debug\net6.0\Exercise9.dll
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\bin\Debug\net6.0\Exercise9.pdb
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.AssemblyInfoInputs.cache
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.AssemblyInfo.cs
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.csproj.CoreCompileInputs.cache
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.sourcelink.json
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.dll
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\refint\Exercise9.dll
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.pdb
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\Exercise9.genruntimeconfig.cache
+E:\TekwillCoursceCsharp\Exercise9\Exercise9\obj\Debug\net6.0\ref\Exercise9.dll
