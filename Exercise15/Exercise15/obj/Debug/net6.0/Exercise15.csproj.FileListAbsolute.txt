@@ -1,0 +1,15 @@
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\bin\Debug\net6.0\Exercise15.exe
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\bin\Debug\net6.0\Exercise15.deps.json
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\bin\Debug\net6.0\Exercise15.runtimeconfig.json
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\bin\Debug\net6.0\Exercise15.dll
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\bin\Debug\net6.0\Exercise15.pdb
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfoInputs.cache
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfo.cs
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.csproj.CoreCompileInputs.cache
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.sourcelink.json
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.dll
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\refint\Exercise15.dll
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.pdb
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\Exercise15.genruntimeconfig.cache
+E:\TekwillCoursceCsharp\Exercise15\Exercise15\obj\Debug\net6.0\ref\Exercise15.dll
