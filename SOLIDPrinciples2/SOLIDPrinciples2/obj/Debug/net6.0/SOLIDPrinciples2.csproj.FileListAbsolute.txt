@@ -1,5 +1,0 @@
-E:\TekwillCoursceCsharp\SOLIDPrinciples2\SOLIDPrinciples2\obj\Debug\net6.0\SOLIDPrinciples2.GeneratedMSBuildEditorConfig.editorconfig
-E:\TekwillCoursceCsharp\SOLIDPrinciples2\SOLIDPrinciples2\obj\Debug\net6.0\SOLIDPrinciples2.AssemblyInfoInputs.cache
-E:\TekwillCoursceCsharp\SOLIDPrinciples2\SOLIDPrinciples2\obj\Debug\net6.0\SOLIDPrinciples2.AssemblyInfo.cs
-E:\TekwillCoursceCsharp\SOLIDPrinciples2\SOLIDPrinciples2\obj\Debug\net6.0\SOLIDPrinciples2.csproj.CoreCompileInputs.cache
-E:\TekwillCoursceCsharp\SOLIDPrinciples2\SOLIDPrinciples2\obj\Debug\net6.0\SOLIDPrinciples2.sourcelink.json
