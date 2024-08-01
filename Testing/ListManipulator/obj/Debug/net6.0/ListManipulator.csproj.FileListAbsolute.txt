@@ -1,0 +1,12 @@
+E:\TekwillCoursceCsharp\Testing\ListManipulator\bin\Debug\net6.0\ListManipulator.deps.json
+E:\TekwillCoursceCsharp\Testing\ListManipulator\bin\Debug\net6.0\ListManipulator.dll
+E:\TekwillCoursceCsharp\Testing\ListManipulator\bin\Debug\net6.0\ListManipulator.pdb
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ListManipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ListManipulator.AssemblyInfoInputs.cache
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ListManipulator.AssemblyInfo.cs
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ListManipulator.csproj.CoreCompileInputs.cache
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ListManipulator.sourcelink.json
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ListManipulator.dll
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\refint\ListManipulator.dll
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ListManipulator.pdb
+E:\TekwillCoursceCsharp\Testing\ListManipulator\obj\Debug\net6.0\ref\ListManipulator.dll

@@ -1,0 +1,12 @@
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\bin\Debug\net6.0\StringValidatorLibrary.deps.json
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\bin\Debug\net6.0\StringValidatorLibrary.dll
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\bin\Debug\net6.0\StringValidatorLibrary.pdb
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\StringValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\StringValidatorLibrary.AssemblyInfoInputs.cache
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\StringValidatorLibrary.AssemblyInfo.cs
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\StringValidatorLibrary.csproj.CoreCompileInputs.cache
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\StringValidatorLibrary.sourcelink.json
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\StringValidatorLibrary.dll
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\refint\StringValidatorLibrary.dll
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\StringValidatorLibrary.pdb
+E:\TekwillCoursceCsharp\Testing\StringValidatorLibrary\obj\Debug\net6.0\ref\StringValidatorLibrary.dll
