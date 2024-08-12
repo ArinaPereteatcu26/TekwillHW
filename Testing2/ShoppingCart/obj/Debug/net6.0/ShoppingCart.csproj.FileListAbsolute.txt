@@ -1,0 +1,12 @@
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.sourcelink.json
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+E:\TekwillCoursceCsharp\Testing2\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll

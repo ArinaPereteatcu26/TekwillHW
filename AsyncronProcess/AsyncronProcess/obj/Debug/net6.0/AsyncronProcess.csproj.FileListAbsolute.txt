@@ -1,0 +1,15 @@
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\bin\Debug\net6.0\AsyncronProcess.exe
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\bin\Debug\net6.0\AsyncronProcess.deps.json
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\bin\Debug\net6.0\AsyncronProcess.runtimeconfig.json
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\bin\Debug\net6.0\AsyncronProcess.dll
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\bin\Debug\net6.0\AsyncronProcess.pdb
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.AssemblyInfoInputs.cache
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.AssemblyInfo.cs
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.csproj.CoreCompileInputs.cache
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.sourcelink.json
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.dll
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\refint\AsyncronProcess.dll
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.pdb
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\AsyncronProcess.genruntimeconfig.cache
+E:\TekwillCoursceCsharp\AsyncronProcess\AsyncronProcess\obj\Debug\net6.0\ref\AsyncronProcess.dll

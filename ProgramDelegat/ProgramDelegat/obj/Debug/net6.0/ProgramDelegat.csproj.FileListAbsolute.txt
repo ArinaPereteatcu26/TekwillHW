@@ -1,0 +1,15 @@
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.GeneratedMSBuildEditorConfig.editorconfig
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.AssemblyInfoInputs.cache
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.AssemblyInfo.cs
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.csproj.CoreCompileInputs.cache
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.sourcelink.json
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\bin\Debug\net6.0\ProgramDelegat.exe
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\bin\Debug\net6.0\ProgramDelegat.deps.json
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\bin\Debug\net6.0\ProgramDelegat.runtimeconfig.json
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\bin\Debug\net6.0\ProgramDelegat.dll
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\bin\Debug\net6.0\ProgramDelegat.pdb
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.dll
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\refint\ProgramDelegat.dll
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.pdb
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ProgramDelegat.genruntimeconfig.cache
+E:\TekwillCoursceCsharp\ProgramDelegat\ProgramDelegat\obj\Debug\net6.0\ref\ProgramDelegat.dll
