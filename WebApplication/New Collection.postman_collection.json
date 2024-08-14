@@ -1,0 +1,95 @@
+{
+	"info": {
+		"_postman_id": "5cd345d6-3a3b-4d6a-b516-d3ae5f98b7b9",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "37635263"
+	},
+	"item": [
+		{
+			"name": "GetWeatherSummary",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": {}
+				},
+				"method": "GET",
+				"header": [],
+				"url": "{{BaseURL}}/WeatherForecast"
+			},
+			"response": []
+		},
+		{
+			"name": "GetWeatherSummaryByName",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "{{BaseURL}}/WeatherForecast/Hot"
+			},
+			"response": []
+		},
+		{
+			"name": "CreateWeather",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"date\": \"2024-08-14T20:30:07.724Z\",\r\n  \"temperatureC\": -27,\r\n  \"summary\": \"Extremly Cold\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{BaseURL}}/WeatherForecast"
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateWeather",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"date\": \"2024-08-15T23:21:07.749205+03:00\",\r\n  \"temperatureC\": 25,\r\n  \"summary\": \"Hot\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{BaseURL}}/WeatherForecast/Hot"
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteWeather",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "{{BaseURL}}/WeatherForecast/Extremly Cold"
+			},
+			"response": []
+		},
+		{
+			"name": "CreateMultipleWeather",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"date\": \"2024-08-17T00:00:00\",\r\n        \"temperatureC\": 12,\r\n        \"summary\": \"Mild warm\"\r\n    },\r\n    {\r\n        \"date\": \"2024-08-18T00:00:00\",\r\n        \"temperatureC\": 45,\r\n        \"summary\": \"Insanely Hot\"\r\n    },\r\n    {\r\n        \"date\": \"2024-08-19T00:00:00\",\r\n        \"temperatureC\": 18,\r\n        \"summary\": \"Very Cool\"\r\n    }\r\n]\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{BaseURL}}/WeatherForecast/CreateMultipleWeather"
+			},
+			"response": []
+		}
+	]
+}
