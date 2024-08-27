@@ -1,11 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic; 
+using System.Linq;
+using DataAccessLayer.Models;
 
 namespace WebApplication.Repositories
 {
     public class WeatherForecastRepository : IWeatherForecastRepository
 
     {
-        private List<WeatherForecast> Summaries = new List<WeatherForecast>
+        private static List<WeatherForecast> Summaries = new List<WeatherForecast>
         {
             new WeatherForecast { Date = DateTime.Now.AddDays(1), Temperature = 25, Summary = "Hot"},
             new WeatherForecast { Date = DateTime.Now.AddDays(2), Temperature = 15, Summary = "Cold"},
@@ -59,7 +63,7 @@ namespace WebApplication.Repositories
                 throw new Exception("Not found");
             }
             Summaries[index].Date = weather.Date;
-            Summaries[index].TemperatureC = weather.TemperatureC;
+            Summaries[index].Temperature = weather.Temperature;
             
             
         }

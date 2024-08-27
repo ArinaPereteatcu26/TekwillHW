@@ -1,4 +1,9 @@
-﻿namespace WebApplication.Repositories
+﻿using DataAccessLayer.Models;
+using System.Collections.Generic;
+
+
+namespace WebApplication.Repositories
+
 {
     public interface IWeatherForecastRepository
     {

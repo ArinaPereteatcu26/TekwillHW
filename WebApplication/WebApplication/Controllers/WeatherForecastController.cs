@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.FileProviders;
-using WebApplication.Models;
+using DataAccessLayer.Models;
 using WebApplication.Repositories;
 
 namespace WebApplication.Controllers
