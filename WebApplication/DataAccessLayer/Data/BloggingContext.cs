@@ -9,6 +9,7 @@ namespace DataAccessLayer.Data
     {
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
+        public DbSet<WeatherForecast> WeatherForecasts { get; set; }
         public string DbPath { get; }
 
         public BloggingContext()
@@ -21,5 +22,7 @@ namespace DataAccessLayer.Data
         protected override void OnConfiguring(DbContextOptionsBuilder options)
             => options.UseSqlite($"Data Source = {DbPath}");
     }
+
+     
 }
 
